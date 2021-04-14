@@ -2,7 +2,7 @@
 - 👀 I’m interested in monitoring systems and providing value adding insights through effective data delivery and visualisation
 - 🌱 I’m currently learning database engineering and JavaScript
 - 💞️ I’m looking to collaborate on anything I can really, just keen to learn where I can
-- 📫 How to reach me nicholasbunn@sun.ac.za
+- 📫 You can reach me on nicholasbunn@sun.ac.za
 
 <!---
 NicholasBunn/NicholasBunn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
