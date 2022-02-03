@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @NicholasBunn
-- 👀 I’m interested in robots, monitoring systems, and providing value adding insights through effective data delivery and visualisation
-- 🌱 I’m currently learning database engineering and JavaScript (while sharpening my C++ skills)
+- 👀 I’m interested in robotics, distributed systems, and integrating solutions to enhance the value that they can provide!
+- 🌱 I’m currently learning about NoSQL databases while working on my frontend knowledge
 - 💞️ I’m looking to collaborate on anything I can really, just keen to learn where I can
-- 📫 You can reach me on nicholasbunn@sun.ac.za
+- 📫 You can reach me on nicholasbunn04@gmail,com
 
 <!---
 NicholasBunn/NicholasBunn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
