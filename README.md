@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @NicholasBunn
-- 👀 I’m interested in robotics, web design, and anything green!
-- 🌱 I’m currently improving my knowledge on cloud and frontend-design
-- 💞️ I’m looking to collaborate on robotics projects/anything cool I can run on a Pi
+- 👀 I’m interested in robotics, software systems, and anything green!
+- 🌱 I’m currently improving my knowledge on architecting cloud solutions and modelling/design patterns
+- 💞️ I’m looking to collaborate on anything cool I can run on a Pi, and anything that will make the environment a bit happier :)
 - 📫 You can reach me on here?
 
 <!---
